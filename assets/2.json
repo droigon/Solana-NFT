@@ -1,0 +1,19 @@
+{
+    "name": "Two",
+    "symbol": "Droi",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "J58ZSLjCnwbe25Cc6szXcGxF2AaQaxXRRQF84XevCAxW",
+          "share": 100
+        }
+      ]
+    }
+  }

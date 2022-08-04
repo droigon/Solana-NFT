@@ -1,0 +1,19 @@
+{
+    "name": "One",
+    "symbol": "Droi",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "J58ZSLjCnwbe25Cc6szXcGxF2AaQaxXRRQF84XevCAxW",
+          "share": 100
+        }
+      ]
+    }
+  }
